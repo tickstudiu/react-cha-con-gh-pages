@@ -1,8 +1,8 @@
 {
   "name": "react-cha-con-gh-pages",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://tickstudiu.github.io/react-cha-con-gh-pages",
+  "private": false,
+  "homepage": "https://tickstudiu.github.io/react-cha-con-gh-pages/",
   "dependencies": {
     "antd": "^3.5.2",
     "bootstrap": "^4.1.1",
